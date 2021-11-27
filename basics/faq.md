@@ -8,7 +8,7 @@ Similarly to OlympusDAO, Fortress aims to solve this by creating a free-floating
 
 ### How is Fortress different or better than Olympus DAO?
 
-Fortress plans to various investment strategies with our treasury to make its value higher. On top of that, Fortress will offer improvements to the Olympus system, such as the "Zap" function, a profit calculator, and NFTs with future utility. Fortress is also hosted on a faster, more affordable and accessible network Avalanche. Currently, Fortress has a smaller market value and less users than Olympus, providing a much higher potential upside for our project.
+Fortress plans to implement various investment strategies with our treasury to make its value higher. On top of that, Fortress will offer improvements to the Olympus system, such as the "Zap" function, a profit calculator, and NFTs with future utility. Fortress is also hosted on a faster, more affordable and accessible network, Avalanche. Currently, Fortress has a smaller market value and less users than Olympus, providing a much higher potential upside for our project.
 
 ### Is FORT a stable coin?
 
@@ -16,7 +16,7 @@ No, FORT is not a stable coin. Rather, FORT aspires to become an algorithmic res
 
 ### How do I participate in Fortress? <a href="how-do-i-participate-in-olympus" id="how-do-i-participate-in-olympus"></a>
 
-There are two main strategies for market participants: [staking](broken-reference) and [minting](broken-reference). Stakers stake their FORT tokens in return for more FORT tokens, while minters provide LP tokens or single tokens in exchange for discounted FORT tokens after a fixed vesting period.
+There are two main strategies for market participants: [staking](broken-reference) and [minting](broken-reference). Stakers stake their FORT tokens in return for more FORT tokens, while minters provide LP tokens or single tokens in exchange for discounted FORT tokens after a fixed vesting period. If you own staked FORT, you can also participate in [governance voting](https://snapshot.org/#/fortressdao.eth/). The amount of sFORT you own is your voting weight.
 
 ### How do I add Avalanche to my wallet?
 
@@ -44,13 +44,7 @@ The easiest way to add funds to your wallet on Avalanche is to withdraw AVAX (th
 
 Please note: you will need AVAX in your wallet to perform transactions on the Avalanche C-Chain. If you bridge non-AVAX funds (USDC, WETH, etc.) onto Avalanche and have no AVAX in your wallet, you will not be able to perform any transactions with those funds.
 
-Currently, there is no “faucet” for the Avalanche chain for supplying small amounts of AVAX. However, if you bridge over more than approximately $75 worth of tokens via the Avalanche Bridge (which only connects the Ethereum mainnet to the Avalanche C-Chain), the bridge will automatically airdrop a small amount of AVAX into your wallet. Another alternative is ElkDex. ElkDex provides the option to swap a small amount of the bridged token into the native chain token for transaction fees.
-
-Once you have successfully transferred funds to the Avalanche network, you will need to swap for the stablecoin MIM in order to participate in Fortress’s LBE. We recommend swapping on the Trader Joe decentralized exchange ([https://traderjoexyz.com/](https://traderjoexyz.com)).
-
-
-
-
+Currently, there is no “faucet” for the Avalanche chain for supplying small amounts of AVAX. However, if you bridge over more than approximately $75 worth of tokens via the Avalanche Bridge (which only connects the Ethereum mainnet to the Avalanche C-Chain), the bridge will automatically airdrop a small amount of AVAX into your wallet. Another alternatives are Synapse and ElkDex, which swap a small part of your bridged token for AVAX for transaction fees.&#x20;
 
 ## What is the best strategy for Fortress?
 
@@ -73,22 +67,22 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 * When one of us sells, it diminishes effort of the other one who stakes or mints (1 - 1 = 0).
 * When we both sell, it creates the worst outcome for both of us and the protocol (-3 - 3 = -6).
 
-## Why is PCV important?
+## Why is [Protocol Controlled Value](../protocol-internals/glossary.md#pcv) (PCV) important?
 
 As the protocol controls the funds in its treasury, FORT can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 FORT with 1 MIM. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy FORT below 1 MIM with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
 
-## Why is POL important?
+## Why is [Protocol Owned Liquidity](../protocol-internals/glossary.md#pol) (POL) important?
 
 Fortress owns most of its liquidity thanks to its mint mechanism. This has several benefits:
 
 *   Fortress does not have to pay out high farming rewards to incentivise liquidity
 
-    providers a.k.a renting liquidity.
+    providers, a.k.a renting liquidity.
 *   Fortress guarantees the market that the liquidity is always there to facilitate
 
-    sell or buy transaction.
+    sell or buy transactions.
 *   By being the largest LP (liquidity provider), it earns most of the LP fees which
 
     represents another source of income to the treasury.
