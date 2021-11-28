@@ -30,4 +30,3 @@
 * [Links](get-involved/links.md)
 * [Translations](get-involved/translations.md)
 * [Marketing Materials](get-involved/marketing-materials.md)
-* [Website](https://fortressdao.finance)
