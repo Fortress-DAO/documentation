@@ -23,6 +23,7 @@
 * [Policy](protocol-internals/policy.md)
 * [Market Dynamics](protocol-internals/market-dynamics.md)
 * [Smart Contracts](protocol-internals/smart-contracts.md)
+* [Treasury](protocol-internals/treasury.md)
 * [Equations](protocol-internals/equations.md)
 
 ## GET INVOLVED
