@@ -14,7 +14,7 @@ Fortress plans to implement various investment strategies with our treasury to m
 
 No, FORT is not a stable coin. Rather, FORT aspires to become an algorithmic reserve currency backed by other decentralized assets and investments. Similar to the idea of the gold standard, FORT provides free floating value its users can always fall back on, simply because of the fractional treasury reserves FORT draws its intrinsic value from.
 
-### How do I participate in Fortress? <a href="how-do-i-participate-in-olympus" id="how-do-i-participate-in-olympus"></a>
+### How do I participate in Fortress? <a href="#how-do-i-participate-in-olympus" id="how-do-i-participate-in-olympus"></a>
 
 There are two main strategies for market participants: [staking](broken-reference) and [minting](broken-reference). Stakers stake their FORT tokens in return for more FORT tokens, while minters provide LP tokens or single tokens in exchange for discounted FORT tokens after a fixed vesting period. If you own staked FORT, you can also participate in [governance voting](https://snapshot.org/#/fortressdao.eth/). The amount of sFORT you own is your voting weight.
 
@@ -69,7 +69,7 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 
 ## Why is [Protocol Controlled Value](../protocol-internals/glossary.md#pcv) (PCV) important?
 
-As the protocol controls the funds in its treasury, FORT can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 FORT with 1 MIM. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy FORT below 1 MIM with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
+As the protocol controls the funds in its treasury, FORT can only be minted or burned by the protocol.&#x20;
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
 
@@ -110,7 +110,7 @@ Rebase is a mechanism by which your staked FORT balance increases automatically.
 
 Reward yield is the percentage by which your staked FORT balance increases on the next epoch. It is also known as _rebase rate_. You can find this number on the [Fortress staking page](https://app.fortressdao.finance/#/stake).
 
-## What is APY? <a href="what-is-apy" id="what-is-apy"></a>
+## What is APY? <a href="#what-is-apy" id="what-is-apy"></a>
 
 APY stands for annual percentage yield. It measures the real rate of return on your principal by taking into account the effect of compounding interest. In the case of Fortress, your staked FORT represents your principal, and the compound interest is added periodically on every epoch (around 8 hours) thanks to the rebase mechanism. One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 FORT on day 1, after a year, your balance will grow to about 1377. That is a lot!
 
