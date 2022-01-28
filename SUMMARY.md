@@ -12,10 +12,10 @@
 
 ## USING FORTRESS
 
-* [Buying FORT](using-fortress/buying-fort.md)
 * [Dashboard](using-fortress/dashboard.md)
-* [Stake your FORT〖🏰, 🏰〗](using-fortress/stake-your-fort.md)
-* [Mint new FORT〖⚔️ ,⚔️〗](using-fortress/mint-new-fort.md)
+* [Buying FORT](using-fortress/buying-fort.md)
+* [Staking FORT〖🏰, 🏰〗](using-fortress/staking-fort.md)
+* [Minting FORT〖⚔️ ,⚔️〗](using-fortress/minting-fort.md)
 * [Wrapping sFORT](using-fortress/wrapping-sfort.md)
 
 ## PROTOCOL INTERNALS
