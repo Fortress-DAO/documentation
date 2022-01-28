@@ -1,6 +1,6 @@
 # Token Structure
 
-## Distribution
+### Distribution
 
 FORT started with a supply of 101,000 FORT. There is no maximum supply, as the amount of tokens grows as people mint & stake.
 
