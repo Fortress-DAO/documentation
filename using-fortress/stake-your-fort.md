@@ -1,4 +1,4 @@
-# Stake your FORT〖🏰, 🏰〗
+# Staking FORT〖🏰, 🏰〗
 
 Staking allows you to earn FORT passively via auto-compounding. By staking your FORT with Fortress, you receive sFORT (staked FORT) in return at a 1:1 ratio. After that, your sFORT balance will increase automatically on every epoch based on the current APY.
 

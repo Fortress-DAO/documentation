@@ -10,6 +10,10 @@ Let's explain these terms one by one, so you can fully understand what you're lo
 
 This is the price per one FORT on the open market. Currently, most of the liquidity is at TraderJoe. To watch the token's price, one can use [DexScreener](https://dexscreener.com/avalanche/0x3e5f198b46f3de52761b02d4ac8ef4ceceac22d6), [nomics](https://nomics.com/assets/fort3-fortress-dao), [CoinGecko](https://www.coingecko.com/en/coins/fortress-dao), or just [TraderJoe](https://traderjoexyz.com/#/trade?inputCurrency=0x130966628846BFd36ff31a822705796e8cb8C18D\&outputCurrency=0xf6d46849DB378AE01D93732585BEc2C4480D1fD5).
 
+### wsFORT price
+
+Calculated by multiplying FORT's price by the current index. This is because the conversion rate between wsFORT and sFORT is the same as the index.
+
 ### Market Cap
 
 Market Cap represents the market value of all tokens together, calculated by multiplying the current price with the total amount of tokens.

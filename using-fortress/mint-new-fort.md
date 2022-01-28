@@ -1,4 +1,4 @@
-# Mint new FORT〖⚔️ ,⚔️〗
+# Minting FORT〖⚔️ ,⚔️〗
 
 Minting allow users to mint FORT from the protocol at a discount by trading it with 1) liquidity (LP tokens) or 2) other assets. The former is called liquidity bonds and the latter reserve bonds.
 
