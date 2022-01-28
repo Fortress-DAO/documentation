@@ -4,9 +4,10 @@ Minting allow users to mint FORT from the protocol at a discount by trading it w
 
 Minting takes roughly 15 epochs to vest, and FORT tokens are vested linearly to the user over that period. Liquidity bonds help the protocol to accumulate and lock liquidity, while reserve bonds allow the protocol to grow its treasury, and thus its RFV faster.
 
-Fortress offers three types of bonds on its website:
+Fortress offers various types of bonds on its website:
 
 * FORT/MIM LP bond
+* sFUSD bond
 * wAVAX bond
 * MIM bond
 
