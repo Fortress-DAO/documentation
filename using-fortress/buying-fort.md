@@ -3,7 +3,7 @@
 
 
 {% hint style="warning" %}
-You can currently only buy FORT on [TraderJoe](https://traderjoexyz.com/#/trade?inputCurrency=0x130966628846BFd36ff31a822705796e8cb8C18D\&outputCurrency=0xf6d46849DB378AE01D93732585BEc2C4480D1fD5) or DEX aggregators such as [matcha](https://matcha.xyz) and [ParaSwap](https://paraswap.io/#/?network=avalanche). Make sure to **check the slippage first **before buying FORT, as some venue offers worse rate than the others due to low liquidity.
+You can currently only buy FORT on [TraderJoe](https://traderjoexyz.com/#/trade?inputCurrency=0x130966628846BFd36ff31a822705796e8cb8C18D\&outputCurrency=0xf6d46849DB378AE01D93732585BEc2C4480D1fD5) or DEX aggregators such as [matcha](https://matcha.xyz) and [ParaSwap](https://paraswap.io/#/?network=avalanche). Make sure to **check the slippage first** before buying FORT, as some venue offers worse rate than the others due to low liquidity.
 {% endhint %}
 
 1\. Go to this [TraderJoe swap page](https://traderjoexyz.com/#/trade?inputCurrency=0x130966628846BFd36ff31a822705796e8cb8C18D\&outputCurrency=0xf6d46849DB378AE01D93732585BEc2C4480D1fD5). We use TraderJoe as an example here. It is recommended to compare the exchange rate across different DEXes to ensure you are getting the best price.

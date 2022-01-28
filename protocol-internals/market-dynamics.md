@@ -6,7 +6,7 @@ There are several feedback mechanisms within the system. These are self-reinforc
 
 **Stakers care primarily about their FORT balance.** While price is important in valuing their FORT and determining the rate at which it grows, it is not the main goal. A smart staker cares only about the short and long term growth prospects of the network. That growth translates into wealth via price and balance growth.
 
-**Minters care primarily about FORT price. **When they mint, these users lock in a fixed reward in FORT. Therefore, network profitability is only helpful in calculating opportunity cost or gain; bonders have their FORT gains locked in.&#x20;
+**Minters care primarily about FORT price.** When they mint, these users lock in a fixed reward in FORT. Therefore, network profitability is only helpful in calculating opportunity cost or gain; bonders have their FORT gains locked in.&#x20;
 
 The ideal scenario for a minter is for price to go up; in this case, the bonder benefits from their discount on FORT and the increase in price.&#x20;
 
