@@ -16,4 +16,4 @@ These FORT tokens were paired with 160,000 MIM to add initial liquidity on Trade
 
 ### Development Team (10,000 FORT)
 
-The Arce Deum has 10,000 **unstaked** FORT vested over the next 6 months to support development. It might seem like a lot % wise for now, but as the total supply grows, our tokens will not grow with it, so the actual amount will constantly fall.&#x20;
+The leading team (also known as Arce Deum) has 10,000 **unstaked** FORT vested over the next 6 months to support development. It might seem like a lot % wise from launch, but these tokens got massively diluted because of not being staked.&#x20;
