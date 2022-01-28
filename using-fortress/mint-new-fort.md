@@ -37,20 +37,3 @@ _Notes:_
 
 * _The "Approve" transaction is only needed when minting for the first time; subsequent minting only requires you to perform the "Mint" transaction._
 * _Do not alter the bond amount after you have closed the menu, as it will reset the recipient address._
-
-3.) The menu will show up. At the Recipient Address field, you can specify a different address that will receive the vested FORT. By default, it is filled with your current address.
-
-![](broken-reference)
-
-4.) You can also modify the Slippage field to increase or decrease the likelihood of your order getting through. A higher slippage increases that likelihood, but you may get a more undesirable fill price.
-
-5.) Close the menu by clicking the cogwheel icon again.
-
-6.) Click "Approve" and sign the transaction.
-
-7.) After the "Approve" transaction has been processed successfully, click "Mint" and sign the transaction. Voila, you have successfully minted FORT!
-
-_Notes:_
-
-* _The "Approve" transaction is only needed when minting for the first time; subsequent minting only requires you to perform the "Mint" transaction._
-* _Do not alter the bond amount after you have closed the menu, as it will reset the recipient address._
