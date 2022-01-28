@@ -1,16 +1,28 @@
 # Marketing Materials
 
-### FORT LOGO
+### FORT logo
 
-[https://app.fortressdao.finance/static/media/FORT.edeb70b4.svg](https://app.fortressdao.finance/static/media/FORT.edeb70b4.svg)
+[https://app.fortressdao.finance/static/media/FORT.97cdd80c.svg](https://app.fortressdao.finance/static/media/FORT.97cdd80c.svg)
 
-{% embed url="https://app.fortressdao.finance/static/media/FORT.edeb70b4.svg" %}
+{% embed url="https://app.fortressdao.finance/static/media/FORT.97cdd80c.svg" %}
 
-### sFORT LOGO
+{% file src="../.gitbook/assets/FORT_Logos_220119.ai" %}
 
-[https://app.fortressdao.finance/static/media/SFORT.1be4459b.svg](https://app.fortressdao.finance/static/media/SFORT.1be4459b.svg)
+### sFORT logo
 
-{% embed url="https://app.fortressdao.finance/static/media/SFORT.1be4459b.svg" %}
+[https://app.fortressdao.finance/static/media/SFORT.c5ef28da.svg](https://app.fortressdao.finance/static/media/SFORT.c5ef28da.svg)
+
+{% embed url="https://app.fortressdao.finance/static/media/SFORT.c5ef28da.svg" %}
+
+### wsFORT logo
+
+[https://app.fortressdao.finance/static/media/wsFORT.0a26622d.svg](https://app.fortressdao.finance/static/media/wsFORT.0a26622d.svg)
+
+{% embed url="https://app.fortressdao.finance/static/media/wsFORT.0a26622d.svg" %}
+
+### FUSD logo
+
+![](../.gitbook/assets/FUSD\_BG01.png)
 
 ### Caricature Background
 
