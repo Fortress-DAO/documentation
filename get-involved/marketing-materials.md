@@ -26,6 +26,10 @@
 
 ### FUSD logo
 
+![](../.gitbook/assets/FUSD\_Alpha02.png)
+
+![](../.gitbook/assets/FUSD\_Alpha01.png)
+
 ![](../.gitbook/assets/FUSD.png)
 
 ### ![](../.gitbook/assets/FUSD\_circle.png)
